@@ -9,13 +9,9 @@ I'm a passionate developer with a deep fascination for understanding how things 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoft-excel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ## ⚙️ Assembly Languages
-![x86_64](https://img.shields.io/badge/x86__64-E02040?logo=assemblyscript)
-![MIPS](https://img.shields.io/badge/MIPS-4590C0?logo=assemblyscript)
-
-## 🖥️ Operating Systems
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011)
+![x86_64](https://img.shields.io/badge/x86__64-E02040)
+![MIPS](https://img.shields.io/badge/MIPS-4590C0)
+![ARM](https://img.shields.io/badge/ARM-0091BD)
